@@ -26,8 +26,8 @@ namespace QL_ThuQuan
         private void SetUpNavigations()
         {
             navMap = new Dictionary<Button, UserControl>() {
-                { button1, new UserControl1() },
-                { button2, new UserControl2() },
+                { button1, new UCQuyTac() },
+                { button2, new UCViPham() },
             };
 
             foreach (var entry in navMap)

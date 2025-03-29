@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Update="UserControl2.cs">
+    <Compile Update="UCViPham.cs">
       <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>

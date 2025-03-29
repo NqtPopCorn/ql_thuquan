@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace QL_ThuQuan
 {
-    public partial class UserControl2 : UserControl
+    public partial class UCQuyTac : UserControl
     {
-        public UserControl2()
+        public UCQuyTac()
         {
             InitializeComponent();
         }
