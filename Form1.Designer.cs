@@ -35,7 +35,9 @@
             button4 = new Button();
             button5 = new Button();
             cardPanel = new Panel();
+            userControl11 = new QL_ThuQuan.Controls.UCThietBi();
             tableLayoutPanel1.SuspendLayout();
+            cardPanel.SuspendLayout();
             SuspendLayout();
             // 
             // tableLayoutPanel1
@@ -113,11 +115,20 @@
             // 
             // cardPanel
             // 
+            cardPanel.Controls.Add(userControl11);
             cardPanel.Dock = DockStyle.Fill;
             cardPanel.Location = new Point(250, 0);
             cardPanel.Name = "cardPanel";
             cardPanel.Size = new Size(1100, 800);
             cardPanel.TabIndex = 1;
+            // 
+            // userControl11
+            // 
+            userControl11.Dock = DockStyle.Fill;
+            userControl11.Location = new Point(0, 0);
+            userControl11.Name = "userControl11";
+            userControl11.Size = new Size(1100, 800);
+            userControl11.TabIndex = 0;
             // 
             // Form1
             // 
@@ -129,6 +140,7 @@
             Name = "Form1";
             Text = "Form1";
             tableLayoutPanel1.ResumeLayout(false);
+            cardPanel.ResumeLayout(false);
             ResumeLayout(false);
         }
 
@@ -141,5 +153,6 @@
         private Button button4;
         private Panel cardPanel;
         private Button button5;
+        private Controls.UCThietBi userControl11;
     }
 }
