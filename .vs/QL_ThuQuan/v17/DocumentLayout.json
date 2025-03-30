@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\University\\C#\\Project\\QL_TQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|a:\\university\\c#\\project\\ql_tq\\ucthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|solutionrelative:ucthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|a:\\university\\c#\\project\\ql_tq\\ucthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|solutionrelative:ucthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|a:\\university\\c#\\project\\ql_tq\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|a:\\university\\c#\\project\\ql_tq\\ucquytac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|solutionrelative:ucquytac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|a:\\university\\c#\\project\\ql_tq\\ucuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|solutionrelative:ucuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|a:\\university\\c#\\project\\ql_tq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|a:\\university\\c#\\project\\ql_tq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|a:\\university\\c#\\project\\ql_tq\\ucquytac.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|solutionrelative:ucquytac.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|a:\\university\\c#\\project\\ql_tq\\ucuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|solutionrelative:ucuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|a:\\university\\c#\\project\\ql_tq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|a:\\university\\c#\\project\\ql_tq\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|a:\\university\\c#\\project\\ql_tq\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|a:\\university\\c#\\project\\ql_tq\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9863E35C-071E-6D1A-49E5-1C2076BE8F28}|QL_ThuQuan.csproj|solutionrelative:dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UCThongKe.cs [Design]",
+              "DocumentMoniker": "A:\\University\\C#\\Project\\QL_TQ\\UCThongKe.cs",
+              "RelativeDocumentMoniker": "UCThongKe.cs",
+              "ToolTip": "A:\\University\\C#\\Project\\QL_TQ\\UCThongKe.cs [Design]",
+              "RelativeToolTip": "UCThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:01:21.754Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UCThongKe.cs",
+              "DocumentMoniker": "A:\\University\\C#\\Project\\QL_TQ\\UCThongKe.cs",
+              "RelativeDocumentMoniker": "UCThongKe.cs",
+              "ToolTip": "A:\\University\\C#\\Project\\QL_TQ\\UCThongKe.cs",
+              "RelativeToolTip": "UCThongKe.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:59:53.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "A:\\University\\C#\\Project\\QL_TQ\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap.cs",
+              "ToolTip": "A:\\University\\C#\\Project\\QL_TQ\\DangNhap.cs [Design]",
+              "RelativeToolTip": "DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:53:39.531Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UCUser.cs [Design]",
+              "DocumentMoniker": "A:\\University\\C#\\Project\\QL_TQ\\UCUser.cs",
+              "RelativeDocumentMoniker": "UCUser.cs",
+              "ToolTip": "A:\\University\\C#\\Project\\QL_TQ\\UCUser.cs [Design]",
+              "RelativeToolTip": "UCUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:53:30.904Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCQuyTac.cs [Design]",
+              "DocumentMoniker": "A:\\University\\C#\\Project\\QL_TQ\\UCQuyTac.cs",
+              "RelativeDocumentMoniker": "UCQuyTac.cs",
+              "ToolTip": "A:\\University\\C#\\Project\\QL_TQ\\UCQuyTac.cs [Design]",
+              "RelativeToolTip": "UCQuyTac.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:41:52.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "A:\\University\\C#\\Project\\QL_TQ\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "A:\\University\\C#\\Project\\QL_TQ\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:34:41.757Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "A:\\University\\C#\\Project\\QL_TQ\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "A:\\University\\C#\\Project\\QL_TQ\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:36:18.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UCUser.cs",
+              "DocumentMoniker": "A:\\University\\C#\\Project\\QL_TQ\\UCUser.cs",
+              "RelativeDocumentMoniker": "UCUser.cs",
+              "ToolTip": "A:\\University\\C#\\Project\\QL_TQ\\UCUser.cs",
+              "RelativeToolTip": "UCUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:39:49.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UCQuyTac.resx",
+              "DocumentMoniker": "A:\\University\\C#\\Project\\QL_TQ\\UCQuyTac.resx",
+              "RelativeDocumentMoniker": "UCQuyTac.resx",
+              "ToolTip": "A:\\University\\C#\\Project\\QL_TQ\\UCQuyTac.resx",
+              "RelativeToolTip": "UCQuyTac.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-30T06:22:31.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "A:\\University\\C#\\Project\\QL_TQ\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "A:\\University\\C#\\Project\\QL_TQ\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-30T09:34:54.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\University\\C#\\Project\\QL_TQ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\University\\C#\\Project\\QL_TQ\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T06:21:05.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DangNhap.Designer.cs",
+              "DocumentMoniker": "A:\\University\\C#\\Project\\QL_TQ\\DangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "DangNhap.Designer.cs",
+              "ToolTip": "A:\\University\\C#\\Project\\QL_TQ\\DangNhap.Designer.cs",
+              "RelativeToolTip": "DangNhap.Designer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAD4vzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T07:11:24.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "A:\\University\\C#\\Project\\QL_TQ\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "A:\\University\\C#\\Project\\QL_TQ\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwDwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T07:07:15.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
