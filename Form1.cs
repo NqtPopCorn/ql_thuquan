@@ -28,6 +28,7 @@ namespace QL_ThuQuan
             navMap = new Dictionary<Button, UserControl>() {
                 { button1, new UCQuyTac() },
                 { button2, new UCViPham() },
+                { button3, new UCThongKe() },
             };
 
             foreach (var entry in navMap)
